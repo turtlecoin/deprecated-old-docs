@@ -6,11 +6,11 @@ This guide will walk you through the process.
 
 ![Raindance Channel](images/raindance/rain1.jpg)
 
-A raindance can happen when the TurtleBotRain wallet has acumulated 10,000 turtles.
+A raindance can happen when the TurtleBotRain wallet has accumulated 5,000 or more TRTL. It can also be triggered at-will by an admin.
 
 ![Forecast](images/raindance/forecast.jpg)
 
-When TurtleBotRain posts in the raindance channel it means a Raindance is about to begin!
+When TurtleBotRain posts in the #raindance channel it means a Raindance is about to begin!
 
 ![A Raindance is about to begin](images/raindance/tuttut.jpg)
 
@@ -23,13 +23,13 @@ Wait for the “Quick, send me your wallet” message.
 
 ![Quick, send your wallet!](images/raindance/quick_rain.jpg)
 
-Click on TurtleBotRain to send your address as a PM to TurtleBotRain.
+Click on TurtleBotRain to send your address in a private message to TurtleBotRain.
 
 ![Click on this](images/raindance/turtlebotrain.jpg)
 
 ![DM the bot](images/raindance/pm_bot.jpg)
 
-You should recieve a PM back that looks like something like this:
+You should receive a private message back that looks like something like this:
 
 ![You get a response](images/raindance/respo1.jpg)
 
@@ -39,13 +39,14 @@ or
 
 **The Emoji will be different for everyone**
 
-Now return to the raindance channel and react with the emoji you recieved in the PM.
+Now return to the #raindance channel and react with the emoji you received in the private message.
 
 ![React](images/raindance/react.jpg)
 
-Only click the emoji listed in the PM.
+Only click the emoji listed in the private message.
 
-If you did everything correct you are included in the payout! Congrats!
+If you did everything correctly you will be included in the payout! Congrats!
+TurtleBotRain will reply with the amount that you'll receive.
 
 ![Payout!](images/raindance/payout.jpg)
 
@@ -67,7 +68,7 @@ If you type !rain **in the bots channel only** you should get a response back wi
 ![Notification](images/raindance/notify.jpg)
 
 
-Enabling notifications for the raindance channel is easy.
+Enabling notifications for the #raindance channel is easy.
 
 Click the dropdown arrow.
 
