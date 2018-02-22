@@ -1,3 +1,8 @@
+# THIS REPO IS NOW ARCHIVED. ALL CONTENT IS MERGED INTO <turtlecoin/turtlecoin-wiki> AND FUTURE UPDATES WILL HAPPEN THERE.
+
+# THIS REPO WILL BE DELETED IN THE NEAR FUTURE
+
+
 # Documentation for TurtleCoin :turtle:
 
 TurtleCoin Documentation
